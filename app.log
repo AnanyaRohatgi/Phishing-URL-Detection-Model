@@ -1,0 +1,16 @@
+2024-10-10 13:39:46,308 - WARNING -  * Debugger is active!
+2024-10-10 13:39:46,308 - INFO -  * Debugger PIN: 265-808-147
+2024-10-10 13:42:13,275 - INFO - 127.0.0.1 - - [10/Oct/2024 13:42:13] "GET /api-info HTTP/1.1" 200 -
+2024-10-10 13:42:35,761 - INFO - 127.0.0.1 - - [10/Oct/2024 13:42:35] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-10-10 13:42:59,676 - ERROR - An error occurred: X has 27 features, but GradientBoostingClassifier is expecting 30 features as input.
+2024-10-10 13:42:59,676 - INFO - 127.0.0.1 - - [10/Oct/2024 13:42:59] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-10-10 13:43:24,392 - ERROR - An error occurred: X has 27 features, but GradientBoostingClassifier is expecting 30 features as input.
+2024-10-10 13:43:24,392 - INFO - 127.0.0.1 - - [10/Oct/2024 13:43:24] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-10-10 13:46:45,386 - INFO -  * Detected change in 'c:\\Users\\ANANYA ROHATGI\\OneDrive\\Desktop\\phishing url\\app.py', reloading
+2024-10-10 13:46:49,029 - WARNING -  * Debugger is active!
+2024-10-10 13:46:49,035 - INFO -  * Debugger PIN: 265-808-147
+2024-10-10 13:47:26,658 - INFO - 127.0.0.1 - - [10/Oct/2024 13:47:26] "POST /predict HTTP/1.1" 200 -
+2024-10-10 13:54:37,798 - INFO -  * Detected change in 'c:\\Users\\ANANYA ROHATGI\\OneDrive\\Desktop\\phishing url\\app.py', reloading
+2024-10-10 13:54:41,747 - WARNING -  * Debugger is active!
+2024-10-10 13:54:41,749 - INFO -  * Debugger PIN: 265-808-147
+2024-10-10 13:56:21,031 - INFO - 127.0.0.1 - - [10/Oct/2024 13:56:21] "POST /predict HTTP/1.1" 200 -
